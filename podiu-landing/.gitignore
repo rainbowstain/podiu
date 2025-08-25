@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node / build artifacts (por si migras a SvelteKit o Vite)
+node_modules/
+dist/
+build/
+.cache/
+.svelte-kit/
+.parcel-cache/
+.vercel/
+.netlify/
+coverage/
+
+# Env
+.env
+.env.*
+
+# Temp
+.tmp/
+tmp/
+.temp/
