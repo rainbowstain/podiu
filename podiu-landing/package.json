@@ -1,0 +1,9 @@
+{
+  "name": "podiu-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing estática minimal de Podiu",
+  "scripts": {
+    "deploy": "echo ok"
+  }
+}
